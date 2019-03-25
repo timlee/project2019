@@ -1,5 +1,7 @@
-610477206Test conflict
+610477206
+Test conflict
 <<<<<<< HEAD
+
 jadjjdakjdk.n.adkn.akdn
 =======
 610477206
